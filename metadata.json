@@ -1,0 +1,7 @@
+{
+  "name": "IAS Conecta - Saúde Mental & SST NR-01",
+  "description": "Plataforma integrada de Saúde Mental, SST e Gestão de Pessoas com IA Gemini: evolução clínica SOAP, match de vagas, PGR NR-01 e chat de acolhimento ético.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
